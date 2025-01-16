@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 30%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(176, 75, 75);
+    font-style: italic;
+    
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.green{
+    background-color:#457d66 ;
+}
+
+.yellow{
+    background-color: #b19368f0;
+}
+
+.pink{
+    background-color: #a56765ee;
+}
+
+.blue{
+    background-color: #58a3b8;
+}
+
+.flash{
+    background-color: #fff;
+}
+
+.userflash{
+    background-color: black;
+}
