@@ -11,7 +11,7 @@ body{
 }
 h1{
     font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(80, 188, 237);
+    background-color: rgb(80, 190, 237);
     font-style: italic;
     
 }
@@ -26,15 +26,15 @@ h1{
 }
 
 .yellow{
-    background-color: #b19368f0;
+    background-color: #b19367f0;
 }
 
 .pink{
-    background-color: #a56765ee;
+    background-color: #a56764ee;
 }
 
 .blue{
-    background-color: #58a3b8;
+    background-color: #58a3b7;
 }
 
 .flash{
